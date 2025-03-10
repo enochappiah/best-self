@@ -7,7 +7,7 @@ import Link from "next/link";
 import Slideshow from "@/app/_components/Slideshow"; 
 
 const images1 = [
-  "/assets/blog/slideshow/18bb8a30-b6b3-46f2-9734-64e518cbfe85_Original.jpg",
+  "/best-self/assets/blog/slideshow/18bb8a30-b6b3-46f2-9734-64e518cbfe85_Original.jpg",
   "/assets/blog/slideshow/b12db4eb-fba5-4e99-917a-824847d4a1c3_Original.jpg",
   "/assets/blog/slideshow/ec239390-9a86-4984-97c8-9d9d38d38603_Original.jpg",
   "/assets/blog/slideshow/IMG-20170930-WA0006_Original_Original.jpg",
