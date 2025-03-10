@@ -44,5 +44,10 @@ export function getAllPosts(): Post[] {
   return posts;
 }
 
+export function getPostByTitle(title: string): Post | undefined {
+  const posts = getAllPosts();
+  return posts.find(post => post.title === title);
+}
+
 
 
