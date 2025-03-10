@@ -104,7 +104,7 @@ export default async function Interview(props: Params) {
               </div>
               <div className="flex gap-4 pl-16"> 
                 <Avatar className="w-10 h-10 border border-black">
-                  <AvatarImage src="/assets/blog/slideshow/Enoch_Appiah_copy.JPG" alt="Interviewee" />
+                  <AvatarImage src="/best-self/assets/blog/slideshow/Enoch_Appiah_copy.JPG" alt="Interviewee" />
                   <AvatarFallback>Them</AvatarFallback>
                 </Avatar>
                 <div className="space-y-4">

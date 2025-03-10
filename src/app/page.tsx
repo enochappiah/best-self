@@ -8,19 +8,19 @@ import Slideshow from "@/app/_components/Slideshow";
 
 const images1 = [
   "/best-self/assets/blog/slideshow/18bb8a30-b6b3-46f2-9734-64e518cbfe85_Original.jpg",
-  "/assets/blog/slideshow/b12db4eb-fba5-4e99-917a-824847d4a1c3_Original.jpg",
-  "/assets/blog/slideshow/ec239390-9a86-4984-97c8-9d9d38d38603_Original.jpg",
-  "/assets/blog/slideshow/IMG-20170930-WA0006_Original_Original.jpg",
+  "/best-self/assets/blog/slideshow/b12db4eb-fba5-4e99-917a-824847d4a1c3_Original.jpg",
+  "/best-self/assets/blog/slideshow/ec239390-9a86-4984-97c8-9d9d38d38603_Original.jpg",
+  "/best-self/assets/blog/slideshow/IMG-20170930-WA0006_Original_Original.jpg",
 ];
 const images2 = [
-  "/assets/blog/slideshow/IMG_5957.JPG",
-  "/assets/blog/slideshow/IMG_4541.JPG", 
-  "/assets/blog/slideshow/IMG_1200.JPG"
+  "/best-self/assets/blog/slideshow/IMG_5957.JPG",
+  "/best-self/assets/blog/slideshow/IMG_4541.JPG", 
+  "/best-self/assets/blog/slideshow/IMG_1200.JPG"
 ];
 const images3 = [
-  "/assets/blog/slideshow/Enoch_Appiah_copy.JPG",
-  "/assets/blog/slideshow/IMG_9455.JPG", 
-  "/assets/blog/slideshow/IMG_5167.JPG"
+  "/best-self/assets/blog/slideshow/Enoch_Appiah_copy.JPG",
+  "/best-self/assets/blog/slideshow/IMG_9455.JPG", 
+  "/best-self/assets/blog/slideshow/IMG_5167.JPG"
 ];
 export default function Index() {
   return (

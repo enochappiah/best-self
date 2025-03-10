@@ -53,7 +53,7 @@ export default function Reflection() {
           />
           <br />
           <Image
-            src={"/assets/blog/reflection/grid.png"}
+            src={"/best-self/assets/blog/reflection/grid.png"}
             alt={`Blake Mouton Grid`}
             width={400}
             height={400}
@@ -172,7 +172,7 @@ export default function Reflection() {
             <p><strong>Prospecting (P)</strong> - 63% </p>
             <p><strong>Assertive (A)</strong> - 67% </p>
             <Image
-            src={"/assets/blog/reflection/stats.png"}
+            src={"/best-self/assets/blog/reflection/stats.png"}
             alt={`ENFP-A results`}
             width={400}
             height={400}
@@ -203,7 +203,7 @@ export default function Reflection() {
             <p><strong>Avoiding</strong> - 4 </p>
             <p><strong>Accommodating</strong> - 9</p>
             <Image
-            src={"/assets/blog/reflection/Conflict_Management_Styles_Assessment+28229.jpeg"}
+            src={"/best-self/assets/blog/reflection/Conflict_Management_Styles_Assessment+28229.jpeg"}
             alt={`ENFP-A results`}
             width={400}
             height={400}
