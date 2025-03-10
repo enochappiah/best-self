@@ -1,4 +1,3 @@
-"use client"
 import { Intro } from "../_components/intro"
 import { InterviewCard } from "../_components/InterviewCard"
 import { Button } from "@/components/ui/button"
