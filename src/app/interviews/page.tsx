@@ -40,7 +40,7 @@ export default function InterviewsPage() {
               role="Senior at Johns Hopkins University"
               quote="You were calm in a time of stress and were able to show your preparation and competitive spirit"
               synopsis="Jade, my best friend and girlfriend, shares her anecdotes from the 4 years we have know each other of times I was my best self."
-              imageUrl="/best-self/assets/blog/interviews/FullSizeRender.jpg"
+              imageUrl="/best-self/assets/blog/interviews/FullSizeRender.JPG"
               slug="interview-jade"
             />
 
@@ -49,7 +49,7 @@ export default function InterviewsPage() {
               role="My Mother "
               quote="One time you were at your best was when you were competitive with your older brother."
               synopsis="My mother shares an anecdote of my early childhood when my brother and I compete in studies and excellence and how it brought out the best in me."
-              imageUrl="/best-self/assets/blog/interviews/akyaa.jpg"
+              imageUrl="/best-self/assets/blog/interviews/akyaa.JPG"
               slug="interview-akyaa"
             />
             
