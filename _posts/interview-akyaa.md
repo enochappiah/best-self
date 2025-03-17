@@ -1,13 +1,14 @@
 ---
 title: "Interview"
 excerpt: "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Praesent elementum facilisis leo vel fringilla est ullamcorper eget. At imperdiet dui accumsan sit amet nulla facilities morbi tempus."
-coverImage: "${basePath}/assets/blog/interviews/akyaa.jpg"
+coverImage: "${basePath}/assets/blog/interviews/akyaa.JPG"
+
 date: "2025-03-09T05:35:07.322Z"
 author:
   name: Jade Boateng-Moore
-  picture: "${basePath}/assets/blog/interviews/akyaa.jpg"
+  picture: "${basePath}/assets/blog/interviews/akyaa.JPG"
 ogImage:
-  url: "${basePath}/assets/blog/interviews/akyaa.jpg"
+  url: "${basePath}/assets/blog/interviews/akyaa.JPG"
 ---
 
 ## Identify one area of growth as a leader/teammate.
